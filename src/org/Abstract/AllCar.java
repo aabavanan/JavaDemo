@@ -21,6 +21,4 @@ public class AllCar extends Mycars {
 		obj.mercedesCar();
 		
 	}
-
-
 }
